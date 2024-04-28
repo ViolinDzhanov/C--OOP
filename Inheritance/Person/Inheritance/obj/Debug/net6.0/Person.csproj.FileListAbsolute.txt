@@ -1,0 +1,14 @@
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\obj\Debug\net6.0\Person.AssemblyInfo.cs
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\bin\Debug\net6.0\Person.exe
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\bin\Debug\net6.0\Person.deps.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\bin\Debug\net6.0\Person.runtimeconfig.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\bin\Debug\net6.0\Person.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\bin\Debug\net6.0\Person.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\obj\Debug\net6.0\Person.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\obj\Debug\net6.0\refint\Person.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\obj\Debug\net6.0\Person.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\obj\Debug\net6.0\Person.genruntimeconfig.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Inheritance\obj\Debug\net6.0\ref\Person.dll

@@ -1,0 +1,14 @@
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

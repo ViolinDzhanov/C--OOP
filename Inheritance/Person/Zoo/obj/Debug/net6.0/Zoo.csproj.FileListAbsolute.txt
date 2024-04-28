@@ -1,0 +1,14 @@
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\bin\Debug\net6.0\Zoo.exe
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\bin\Debug\net6.0\Zoo.deps.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\bin\Debug\net6.0\Zoo.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\bin\Debug\net6.0\Zoo.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\obj\Debug\net6.0\Zoo.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\obj\Debug\net6.0\Zoo.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\Inheritance\Person\Zoo\obj\Debug\net6.0\ref\Zoo.dll
