@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uOR5cyJ3cr/H6bSdgZCtnpE7+xEolHzk3N1k7F4O1BXkaNm3DA/k929xHu0fMauIfVsQecr8n9kd4sqhD+87Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vdzha\\OneDrive\\Desktop\\C#\\C# OOP recap\\07.ExamPreparation\\New folder\\01. Structure_Skeleton\\ChristmasPastryShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vdzha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vdzha\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vdzha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\vdzha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

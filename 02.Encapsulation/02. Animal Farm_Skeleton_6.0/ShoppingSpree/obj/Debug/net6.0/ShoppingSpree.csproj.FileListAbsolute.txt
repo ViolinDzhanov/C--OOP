@@ -1,0 +1,14 @@
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll

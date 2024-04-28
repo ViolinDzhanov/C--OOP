@@ -1,0 +1,14 @@
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.exe
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll

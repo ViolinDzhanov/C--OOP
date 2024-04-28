@@ -1,0 +1,14 @@
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.exe
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.deps.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\obj\Debug\net6.0\refint\Railway.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\FinalExam\Railway-Skeleton\Railway\obj\Debug\net6.0\ref\Railway.dll

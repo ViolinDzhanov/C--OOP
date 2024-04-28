@@ -1,0 +1,14 @@
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.exe
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.deps.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.runtimeconfig.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\refint\EDriveRent.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.genruntimeconfig.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\07.ExamPreparation\18.04.23\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\ref\EDriveRent.dll

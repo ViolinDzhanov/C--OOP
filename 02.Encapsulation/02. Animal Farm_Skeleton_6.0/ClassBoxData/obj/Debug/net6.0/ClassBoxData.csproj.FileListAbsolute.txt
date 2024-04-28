@@ -1,0 +1,14 @@
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\02.Encapsulation\02. Animal Farm_Skeleton_6.0\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll

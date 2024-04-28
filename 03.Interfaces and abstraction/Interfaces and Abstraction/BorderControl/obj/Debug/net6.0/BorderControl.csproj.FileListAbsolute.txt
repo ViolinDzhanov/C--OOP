@@ -1,0 +1,14 @@
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\bin\Debug\net6.0\BorderControl.exe
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\bin\Debug\net6.0\BorderControl.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\obj\Debug\net6.0\BorderControl.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\Users\vdzha\OneDrive\Desktop\C#\C# OOP recap\03.Interfaces and abstraction\Interfaces and Abstraction\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
